@@ -92,7 +92,7 @@ function App() {
           {/* projects section  */}
           <Route path='/work' element={<Work />} />
 
-          {/* Donate section  */}
+          {/* Donate sec  */}
           <Route path='/support' element={<Support type='support' title="“No act of kindness, no matter how small, is ever wasted.” – Aesop" />} />
         </Routes>
         {/* footer (on every route) with text and project_link props */}
