@@ -95,7 +95,7 @@ function App() {
           {/* Donate sec  */}
           <Route path='/support' element={<Support type='support' title="“No act of kindness, no matter how small, is ever wasted.” – Aesop" />} />
         </Routes>
-        {/* footer (on every route) with text and project_link props */}
+        {/* footer (on every rouith text and project_link props */}
         <Footer project_link='https://github.com/realsnipc/snipc' />
       </div>
 
